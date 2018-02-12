@@ -40,7 +40,7 @@ var consoleLogger = function(number){
     console.log(number)
 }
 
-range.forEach(consoleLogger)  // 0 1 2 3 4 5
+range.forEach(consoleLogger)  // 0 1 2 3 4 
 ```
 
 ### Event Loop
@@ -63,5 +63,5 @@ console.log('second') // second first
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjI5MTE2OV19
+eyJoaXN0b3J5IjpbMTM4MTk5MTU1NF19
 -->
