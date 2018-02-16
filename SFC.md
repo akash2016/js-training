@@ -7,6 +7,8 @@ function Welcome(props) {
  return <h1>Hello, {props.name}</h1>;
 }
 ```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MjI2NDc2XX0=
+eyJoaXN0b3J5IjpbMTYxMzUwNTkwNF19
 -->
