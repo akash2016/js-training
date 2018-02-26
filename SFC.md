@@ -4,11 +4,11 @@ SFC's are nothing but Pure JavaScript functions. They always return same output 
 
 ```
 function Welcome(props) {
- return <h1>Hello, {props.name}<h1>;
+ return <h1>Hello, {props.name}</h1>;
 }
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDY2MDM0N119
+eyJoaXN0b3J5IjpbMTYxMzUwNTkwNF19
 -->
