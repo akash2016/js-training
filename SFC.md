@@ -1,6 +1,6 @@
 ### SFC ( Stateless Function Component )
 
-SFC's are nothing but Pure JavaScript functions. They always return same output for a given input and don't have any side effects. They don't have any React LifeCycle methods.
+SFC's are nothing but Pure JavaScript functions. They always return same output for a given input and don't have any side effects. They don't have any React LifeCycle method.
 
 ```
 function Welcome(props) {
@@ -10,5 +10,5 @@ function Welcome(props) {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMzUwNTkwNF19
+eyJoaXN0b3J5IjpbLTExNTM3OTQwNjddfQ==
 -->
