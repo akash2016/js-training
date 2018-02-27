@@ -22,7 +22,7 @@ result; // "Barry"
 
 ### Higher Order Function
 
-Functions that operate on other functions, either by taking them as arguments or by returning them, are called higher-order functions.
+Functions that operate on other functions, either by taking them as arguments or by returning them, are called higher-order function.
 
 ```
 function greaterThan(n) {
@@ -63,5 +63,5 @@ console.log('second') // second first
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzYzNDU1NDRdfQ==
+eyJoaXN0b3J5IjpbMTQ4NjE0NTk5MV19
 -->
