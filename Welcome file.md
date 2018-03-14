@@ -20,7 +20,7 @@ result; // "Barry"
 ```
 
 
-### Higher Order Function
+### Higher Order Functions
 
 Functions that operate on other functions, either by taking them as arguments or by returning them, are called higher-order functions.
 
@@ -63,5 +63,5 @@ console.log('second') // second first
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzYzNDU1NDRdfQ==
+eyJoaXN0b3J5IjpbMjA5MjI5MTE2OV19
 -->
